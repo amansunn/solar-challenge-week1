@@ -1,0 +1,11 @@
+.venv/
+.env
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+data/
+*.csv
+.DS_Store
+.vscode/
+*.swp
+
